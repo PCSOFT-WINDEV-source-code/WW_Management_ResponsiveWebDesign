@@ -1,0 +1,95 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_Management_ResponsiveWebDesign
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Site
+    internal_properties : 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
+    configuration_id : 5168032000805950487
+    type : 2
+    generation_name : WW_Management_ResponsiveWebDesign.wdl
+    version :
+     major_version : 24
+     minor_version : 75
+    language : 2
+    64bits : true
+ elements :
+  identifier : 0x4bec280c004b82b0
+  elements :
+   -
+     name : PAGETPL_Main
+     identifier : 0x4c2f27f9000d512e
+     internal_properties : CAAAAAgAAABfOXUR4t9PTYLyiqHqprulKjQSmrC1Hl0o4mNVfFiHDEeA6ik/hJCDpeJtCjXVYkna
+     physical_name : .\PAGETPL_Main.wwt
+     type : 65541
+   -
+     name : PAGE_Main
+     identifier : 0x4c2f2ee900106b5a
+     internal_properties : CAAAAAgAAAA+KWClpdVIvEFjLff6ydId8rClwJRIXw2DVJxlnfQ/DBBhkzGIeZDKFyRhn6jtizO2i1htezKNdij4ZI7uFiEuzdoxwg==
+     physical_name : .\PAGE_Main.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ data_directory : <RepExeOuRepDonneesCommun>
+ common_generation_directory : true
+ wb_skin : 230 Spatiumn
+ wb_color_palette : BlueGreeniumn
+ languages :
+  - en-GB
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_Main
+     parameters : []
+     title :
+      fr-FR : Principale
+      en-GB : Main
+     description :
+      fr-FR : Principale
+      en-GB : Main
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAAC6oZdqSD525k1AlPAQJgpTdA8RmcDSohgDrL7FTHAAZsBrbo2LWBnQsrwYLEgZsatJNKJBwsMb8vC3lFyK9wE/SrK4
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Site
+     identifier : 0x4bec280c004c838b
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WW_Administration_ResponsiveWebDesign
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
